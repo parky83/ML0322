@@ -10,6 +10,7 @@ html = """
 """
 # HTML 분석하기 --- (※3)
 soup = BeautifulSoup(html, 'html.parser')
+print(soup)
 # 원하는 부분 추출하기 --- (※4)
 h1 = soup.html.body.h1
 p1 = soup.html.body.p
