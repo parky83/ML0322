@@ -1,5 +1,7 @@
 import urllib.request as req
-import gzip, os, os.path
+import gzip
+import os
+import os.path
 savepath = "./mnist"
 baseurl = "http://yann.lecun.com/exdb/mnist"
 files = [
@@ -8,7 +10,8 @@ files = [
     "t10k-images-idx3-ubyte.gz",
     "t10k-labels-idx1-ubyte.gz"]
 # 다운로드
-if not os.path.exists(savepath): os.mkdir(savepath)
+if not os.path.exists(savepath):
+    os.mkdir(savepath)
 for f in files:
     url = baseurl + "/" + f
     loc = savepath + "/" + f

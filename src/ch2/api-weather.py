@@ -7,15 +7,19 @@ cities = ["Seoul,KR", "Tokyo,JP", "New York,US"]
 # API 지정 --- (※3)
 api = "http://api.openweathermap.org/data/2.5/weather?q={city}&APPID={key}"
 # 켈빈 온도를 섭씨 온도로 변환하는 함수 --- (※4)
-k2c = lambda k: k - 273.15
+
+
+def k2c(k): return k - 273.15
+
+
 # 각 도시의 정보 추출하기 --- (※5)
 for name in cities:
     # API의 URL 구성하기 --- (※6)
     url = api.format(city=name, key=apikey)
     # API에 요청을 보내 데이터 추출하기
-    r = requests.get(url)
+    r = requests.get(url)  
     # 결과를 JSON 형식으로 변환하기 --- (※7)
-    data = json.loads(r.text)    
+    data = json.loads(r.text)
     # 결과 출력하기 --- (※8)
     print("+ 도시 =", data["name"])
     print("| 날씨 =", data["weather"][0]["description"])

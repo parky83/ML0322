@@ -1,16 +1,17 @@
 from selenium.webdriver import Firefox, FirefoxOptions
 
-USER = "<아이디>"
-PASS = "<비밀번호>"
+USER = ""
+PASS = ""
 
 # Firefox 실행하기 --- (※1)
 options = FirefoxOptions()
-options.add_argument('-headless')
+# options.add_argument('-headless')
 browser = Firefox(options=options)
 
 # 로그인 페이지에 접근하기 --- (※2)
 url_login = "https://nid.naver.com/nidlogin.login"
 browser.get(url_login)
+browser.save_screenshot("login1.png")
 print("로그인 페이지에 접근합니다.")
 
 # 텍스트 박스에 아이디와 비밀번호 입력하기 --- (※3)
@@ -20,17 +21,20 @@ e.send_keys(USER)
 e = browser.find_element_by_id("pw")
 e.clear()
 e.send_keys(PASS)
+browser.save_screenshot("login2.png")
 
 # 입력 양식 전송해서 로그인하기 --- (※4)
 form = browser.find_element_by_css_selector("input.btn_global[type=submit]")
 form.submit()
 print("로그인 버튼을 클릭합니다.")
+browser.save_screenshot("login3.png")
 
 # 쇼핑 페이지의 데이터 가져오기 --- (※5)
 browser.get("https://order.pay.naver.com/home?tabMenu=SHOPPING")
+browser.save_screenshot("shoppinglist.png")
 
 # 쇼핑 목록 출력하기 --- (※6)
 products = browser.find_elements_by_css_selector(".p_info span")
 print(products)
 for product in products:
-  print("-", product.text)
+    print("-", product.text)

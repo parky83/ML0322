@@ -1,0 +1,294 @@
+1585450256660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\4CLASS~1\\AppData\\Local\\Temp\\rust_mozprofilegjWNIa"
+*** You are running in headless mode.
+1585450259647	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585450260499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585450260499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585450260499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585450260499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585450262439	Marionette	INFO	Listening on port 54871
+1585450262685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585450268571	Marionette	INFO	Stopped listening on port 54871
+[Child 7220, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Child 7220, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1585450391416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\4CLASS~1\\AppData\\Local\\Temp\\rust_mozprofileblXTo5"
+*** You are running in headless mode.
+1585450391952	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585450392608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585450392608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585450392609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585450392609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585450393895	Marionette	INFO	Listening on port 55130
+1585450394121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1585450668725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\4CLASS~1\\AppData\\Local\\Temp\\rust_mozprofileDRtXlI"
+*** You are running in headless mode.
+1585450669449	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585450670224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585450670224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585450670224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585450670224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585450671932	Marionette	INFO	Listening on port 55659
+1585450671942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1585450710100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\4CLASS~1\\AppData\\Local\\Temp\\rust_mozprofile44FPqU"
+*** You are running in headless mode.
+1585450710603	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585450711161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585450711161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585450711162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585450711162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585450712430	Marionette	INFO	Listening on port 55779
+1585450712832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1585450797579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\4CLASS~1\\AppData\\Local\\Temp\\rust_mozprofileMhQxzn"
+*** You are running in headless mode.
+1585450798887	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585450799630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585450799630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585450799630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585450799630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585450801051	Marionette	INFO	Listening on port 55996
+1585450801476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1585450823800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\4CLASS~1\\AppData\\Local\\Temp\\rust_mozprofileO1wqX9"
+*** You are running in headless mode.
+1585450825297	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585450826004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585450826004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585450826004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585450826005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585450827179	Marionette	INFO	Listening on port 56098
+1585450827610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://nid.naver.com/login/js/bvsd.1.3.4.min.js, line 16: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1585456315667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\4CLASS~1\\AppData\\Local\\Temp\\rust_mozprofilel5Jtna"
+1585456317170	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585456318046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585456318046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585456318046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585456318046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585456319847	Marionette	INFO	Listening on port 63521
+1585456319977	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11260, MediaDecoderStateMachine #1] WARNING: 128aa100 Can't get cubeb context!: file z:/task_1583751780/build/src/dom/media/AudioStream.cpp, line 296
+[Child 11260, MediaDecoderStateMachine #1] WARNING: Decoder=12846000 [OnMediaSinkAudioError]: file z:/task_1583751780/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3710
+1585456322821	Marionette	INFO	Stopped listening on port 63521
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1585456415474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\4CLASS~1\\AppData\\Local\\Temp\\rust_mozprofilezY2zet"
+1585456415904	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585456416557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585456416557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585456416557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585456416557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585456418188	Marionette	INFO	Listening on port 63710
+1585456418266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585456434003	Marionette	INFO	Stopped listening on port 63710
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+KLIB_SelfTest return : KLR_OK
+1585456446952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\4CLASS~1\\AppData\\Local\\Temp\\rust_mozprofilel7ftri"
+1585456447534	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585456448283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585456448283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585456448283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585456448283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585456449655	Marionette	INFO	Listening on port 63804
+1585456450753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://nid.naver.com/login/js/default/common200225.js, line 2174: Error: Script terminated by timeout at:
+hide@https://nid.naver.com/login/js/default/common200225.js:2174:1
+borderOn@https://nid.naver.com/login/js/default/common200225.js:2232:6
+addInputEvent/<@https://nid.naver.com/login/js/default/common200225.js:2188:45
+
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101, line 6: Error: Script terminated by timeout at:
+vg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:53182
+vg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:53575
+ug@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:53114
+Cg.prototype.a@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:54752
+kg/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:49276
+x@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:3653
+kg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:49249
+ih/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:63349
+x@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:3653
+ih@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:63320
+gh@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:60093
+dh.prototype.zb@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:59707
+We/a.a<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:34381
+be/</<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:26884
+Zd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:26623
+Id/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:23853
+Zd@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:26734
+be/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:26857
+Id/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:23853
+Id/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:23897
+
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.html?referrer=, line 1: TypeError: i[r.callId] is not a function
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.html?referrer=, line 1: TypeError: i[r.callId] is not a function
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.html?referrer=, line 1: TypeError: i[r.callId] is not a function
+JavaScript warning: https://static.vidazoo.com/basev/1.0.352/prebid/prebid.js, line 3: Error: Script terminated by timeout at:
+0/t.shuffle@https://static.vidazoo.com/basev/1.0.352/prebid/prebid.js:3:5837
+S@https://static.vidazoo.com/basev/1.0.352/prebid/prebid.js:3:56792
+m/<@https://static.vidazoo.com/basev/1.0.352/prebid/prebid.js:3:56393
+m@https://static.vidazoo.com/basev/1.0.352/prebid/prebid.js:3:56531
+
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101, line 6: Error: Script terminated by timeout at:
+Id/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:23921
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://code.jquery.com/jquery-1.11.3.min.js, line 4: Error: Script terminated by timeout at:
+Ja@https://code.jquery.com/jquery-1.11.3.min.js:4:24959
+css@https://code.jquery.com/jquery-1.11.3.min.js:4:30287
+Ya@https://code.jquery.com/jquery-1.11.3.min.js:4:29032
+get@https://code.jquery.com/jquery-1.11.3.min.js:4:30567
+css@https://code.jquery.com/jquery-1.11.3.min.js:4:30259
+m.fn[d]/<@https://code.jquery.com/jquery-1.11.3.min.js:5:31473
+m.access@https://code.jquery.com/jquery-1.11.3.min.js:4:3545
+m.fn[d]@https://code.jquery.com/jquery-1.11.3.min.js:5:31244
+o/h[0].autoUpdate<@https://tistory1.daumcdn.net/tistory/2833054/skin/images/jquery.mCustomScrollbar.concat.min.js:4:29594
+
