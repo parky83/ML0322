@@ -1,9 +1,11 @@
 # 라이브러리 읽어 들이기 --- (※1)
-import MySQLdb
+# import MySQLdb
+import pymysql
 # MySQL 연결하기 --- (※2)
-conn = MySQLdb.connect(
+# conn = MySQLdb.connect(
+conn = pymysql.connect(
     user='root',
-    passwd='test-password',
+    passwd='pass',  # 'test-password',
     host='localhost',
     db='test')
 # 커서 추출하기 --- (※3)
@@ -18,7 +20,7 @@ cur.execute('''
     )
     ''')
 # 데이터 추가하기 --- (※5)
-data = [('Banana', 300),('Mango', 640), ('Kiwi', 280)]
+data = [('Banana', 300), ('Mango', 640), ('Kiwi', 280)]
 for i in data:
     cur.execute("INSERT INTO items(name,price) VALUES(%s,%s)", i)
 # 데이터 추출하기 --- (※6)

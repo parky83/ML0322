@@ -1,5 +1,6 @@
 import urllib.request as req
-import os.path, random
+import os.path
+import random
 import json
 # JSON 데이터 내려받기 --- (※1)
 url = "https://api.github.com/repositories"

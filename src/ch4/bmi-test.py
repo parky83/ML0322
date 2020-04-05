@@ -6,8 +6,8 @@ import pandas as pd
 tbl = pd.read_csv("bmi.csv")
 # 칼럼(열)을 자르고 정규화하기 --- (※2)
 label = tbl["label"]
-w = tbl["weight"] / 100 # 최대 100kg라고 가정
-h = tbl["height"] / 200 # 최대 200cm라고 가정
+w = tbl["weight"] / 100  # 최대 100kg라고 가정
+h = tbl["height"] / 200  # 최대 200cm라고 가정
 wh = pd.concat([w, h], axis=1)
 # 학습 전용 데이터와 테스트 전용 데이터로 나누기 --- (※3)
 data_train, data_test, label_train, label_test = \

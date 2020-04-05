@@ -3,15 +3,15 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
 # 데이터 읽어 들이기
-mr = pd.read_csv("mushroom.csv", header=None)
+mr = pd.read_csv("C:/Users/ML_class/ML0322/src/ch4/mushroom.csv", header=None)
 # 데이터 내부의 분류 변수 전개하기
 label = []
 data = []
 attr_list = []
 for row_index, row in mr.iterrows():
-    label.append(row.ix[0])
+    label.append(row.loc[0])
     exdata = []
-    for col, v in enumerate(row.ix[1:]):
+    for col, v in enumerate(row.loc[1:]):
         if row_index == 0:
             attr = {"dic": {}, "cnt":0}
             attr_list.append(attr)
@@ -39,3 +39,4 @@ predict = clf.predict(data_test)
 # 결과 테스트하기
 ac_score = metrics.accuracy_score(label_test, predict)
 print("정답률 =", ac_score)
+print(data)

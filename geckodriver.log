@@ -292,3 +292,6 @@ m.access@https://code.jquery.com/jquery-1.11.3.min.js:4:3545
 m.fn[d]@https://code.jquery.com/jquery-1.11.3.min.js:5:31244
 o/h[0].autoUpdate<@https://tistory1.daumcdn.net/tistory/2833054/skin/images/jquery.mCustomScrollbar.concat.min.js:4:29594
 
+1585473310049	Marionette	INFO	Stopped listening on port 63804
+
+KLIB_SelfTest return : KLR_OK
