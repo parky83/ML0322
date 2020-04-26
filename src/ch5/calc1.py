@@ -7,5 +7,5 @@ b = tf.constant(5000)
 add_op = a + b
 # 세션 시작하기 --- (※4)
 sess = tf.Session()
-res = sess.run(add_op) # 식 평가하기
+res = sess.run(add_op)  # 식 평가하기
 print(res)

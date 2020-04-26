@@ -9,7 +9,7 @@ calc1_op = a + b * c
 calc2_op = (a + b) * c
 # 세션 시작하기 --- (※4)
 sess = tf.Session()
-res1 = sess.run(calc1_op) # 식 평가하기
+res1 = sess.run(calc1_op)  # 식 평가하기
 print(res1)
-res2 = sess.run(calc2_op) # 식 평가하기
+res2 = sess.run(calc2_op)  # 식 평가하기
 print(res2)
